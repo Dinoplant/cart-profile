@@ -13,10 +13,17 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
+<<<<<<< Updated upstream
+      --color-lightest: #e2cdff;
+      --color-light: #9c9ab2;
+      --color: #865da9;
+      --color-dark: #601f8b;
+=======
+      --color-lightest: #1adc2b;
+      --color-light: #54a939;
+      --color: #a55ce5;
+      --color-dark: #600ab1;
+>>>>>>> Stashed changes
       --font: "Open Sans", Helvetica, sans-serif;
   }
 
